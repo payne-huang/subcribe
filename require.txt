@@ -1,0 +1,5 @@
+feedparser
+flask_apscheduler
+flask_sqlalchemy
+flask
+Flask-APScheduler
